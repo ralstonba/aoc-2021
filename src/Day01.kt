@@ -11,7 +11,7 @@ fun main() {
             .asSequence()
             .map { it.toInt() }
             .windowed(3)
-            .map { it ->  it.sum() }
+            .map { it.sum() }
             .windowed(2)
             .map { it.last() > it.first() }
             .count { it }
