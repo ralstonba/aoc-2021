@@ -1,8 +1,8 @@
 # Advent of Code 2021
 [![About](https://img.shields.io/badge/Advent%20of%20Code%20🎄-2021-brightgreen)](https://adventofcode.com/2021/about)
 [![Language](https://img.shields.io/badge/Language-kotlin-red)](https://kotlinlang.org/)
-[![Days completed](https://img.shields.io/badge/day%20📅-8-blue)](https://adventofcode.com/2021)
-[![Stars](https://img.shields.io/badge/stars%20⭐-14-yellow)](https://adventofcode.com/2021/stats)
+[![Days completed](https://img.shields.io/badge/day%20📅-9-blue)](https://adventofcode.com/2021)
+[![Stars](https://img.shields.io/badge/stars%20⭐-16-yellow)](https://adventofcode.com/2021/stats)
 
 
 Welcome to the Advent of Code[^aoc] Kotlin project created by [ralstonba][github] using the [Advent of Code Kotlin Template][template] delivered by JetBrains.
